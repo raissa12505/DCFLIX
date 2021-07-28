@@ -1,4 +1,4 @@
-@media screen and(max-widht: 700px;){
+@media screen {
     header .container{
         display: flex;
         flex-direction: column;
@@ -11,7 +11,7 @@
     }
 }
 
-@media screen and (min-widht: 1000px;) {
+@media screen  {
     .descricao{
         width: 50%;
     }
